@@ -1,0 +1,2 @@
+-> Single Responsibility
+    Each class should have only one sole purpose

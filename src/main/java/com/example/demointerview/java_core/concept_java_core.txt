@@ -1,0 +1,7 @@
+    Java core refers to the fundamental components of the Java programming language, which include the Java Virtual
+Machine (JVM), the Java Development Kit (JDK), and the Java Runtime Environment (JRE). These components are responsible
+for executing Java code and making it cross-platform compatible.
+
+    Object-oriented programming (OOP) is a programming paradigm that is based on the concept of objects. Java is popular
+object-oriented programming language, and it fully supports OOP concept. In Java, everything is objects, which means that
+all data types
